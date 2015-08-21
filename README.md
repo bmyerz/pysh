@@ -21,4 +21,4 @@ python compile.py test.py
 
 # Example usage without string interpolation
 
-Just write your python script, importing pysh and run normally.
+Just write your python script, importing pysh. You can run it without compiling.
