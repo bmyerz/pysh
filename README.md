@@ -16,7 +16,7 @@ python compile.py test.py
 - run your script
 
 ```bash
-./test.py
+./test
 ```
 
 # Example usage without string interpolation
